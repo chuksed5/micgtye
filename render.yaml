@@ -1,0 +1,5 @@
+services:
+  - type: web
+    name: nexus-miner
+    runtime: docker
+    plan: free  # Uses Render's free tier
